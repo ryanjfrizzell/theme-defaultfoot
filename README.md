@@ -1,7 +1,7 @@
-# these-default-copyright
+# theme-defaultfoot
 
 Since Gitbook, probably say about 3.0.0 GitBook made it increasingly hard to add in footers, no idea why this was done. 
-Anyways this theme makes it possible to define variablesi in your book.json and use them in the footer, novel concept right? 
+Anyways this theme makes it possible to define some vars in your book.json and use them in the footer, novel concept right? 
 
 
 ### Usage

@@ -20,9 +20,6 @@
     "mousetrap": "1.6.0",
     "uglify-js": "2.7.3"
   },
-  "scripts": {
-    "prepublish": "./src/build.sh"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/ryanjfrizzell/theme-defaultfoot.git"

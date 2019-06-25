@@ -6,6 +6,16 @@ Anyways this theme makes it possible to define some vars in your book.json and u
 
 ### Usage
 
+In your book.json, include a vars section
+```
+{
+  "variables": 
+  {
+    "defaultfoot": "hey look a footer"
+  }
+}
+```
+
 # GitBook Default Theme
 
 This is the default theme for GitBook since version `3.0.0`. It can be used as a template for theming books or can be extended.

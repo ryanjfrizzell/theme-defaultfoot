@@ -2,7 +2,7 @@
   "name": "gitbook-plugin-theme-defaultfoot",
   "description": "Default theme for GitBook with better support for footers",
   "main": "./index.js",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "engines": {
     "gitbook": ">=3.0.0"
   },
